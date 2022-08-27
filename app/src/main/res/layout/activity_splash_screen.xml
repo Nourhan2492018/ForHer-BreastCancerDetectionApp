@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#4AFB80DA"
+    tools:context=".splash_screen">
+
+
+    <ProgressBar
+        android:id="@+id/progressBar2"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:indeterminateTint="#BA4D9C"
+        android:translationX="160dp"
+        android:translationY="450dp"
+        tools:layout_editor_absoluteX="١٩١dp"
+        tools:layout_editor_absoluteY="٥٦١dp" />
+
+    <ImageView
+        android:id="@+id/roundedImageView"
+        android:layout_width="match_parent"
+        android:layout_height="270dp"
+        android:src="@drawable/breast1"
+        android:background="@color/white"
+        android:scaleType="centerCrop" />
+
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/roundedImageView"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="60dp"
+        android:layout_marginTop="21dp"
+
+        android:fontFamily="@font/akronim"
+        android:gravity="center_vertical"
+        android:text="@string/wellcom"
+        android:textColor="#BA4D9C"
+        android:textSize="45sp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="57dp"
+        android:layout_below="@id/textView1"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/akronim"
+        android:text="@string/for_her"
+        android:textColor="#BA4D9C"
+        android:textSize="50sp" />
+
+</RelativeLayout>

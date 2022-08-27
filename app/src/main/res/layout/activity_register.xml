@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:gravity="center"
+    android:orientation="vertical"
+
+    >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:paddingTop="60dp"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:padding="10dp"
+            android:background="#FFFFFF"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+
+                <ImageView
+                    android:id="@+id/img_register"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_margin="0dp"
+                    android:src="@drawable/profile" />
+
+                <ImageView
+                    android:layout_marginTop="0dp"
+                    android:src="@drawable/camera"
+                    android:layout_marginStart="70dp"
+                    android:id="@+id/icon_image"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp">
+
+                </ImageView>
+
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/pass_change"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/editor_background"
+                android:hint="@string/username"
+                android:padding="10dp"
+                android:fontFamily="@font/akaya_telivigala"
+                android:shadowColor="#F3BABA"
+                android:textColor="#F859CB"
+                android:textColorHint="#D658B3"
+                android:textStyle="normal"
+                android:translationY="30dp" />
+
+
+            <EditText
+                android:id="@+id/name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/editor_background"
+                android:fontFamily="@font/akaya_telivigala"
+                android:hint="phone"
+                android:padding="10dp"
+                android:textColor="#D658B3"
+                android:textColorHint="#D658B3"
+                android:translationY="30dp" />
+
+            <EditText
+                android:id="@+id/Age"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/editor_background"
+                android:hint="@string/age"
+                android:padding="10dp"
+                android:fontFamily="@font/akaya_telivigala"
+                android:shadowColor="#F3BABA"
+                android:textColor="#F859CB"
+                android:textColorHint="#D658B3"
+                android:textStyle="normal"
+                android:translationY="30dp" />
+
+            <EditText
+                android:id="@+id/email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/editor_background"
+                android:hint="@string/e_mail"
+                android:inputType="textEmailAddress"
+                android:padding="10dp"
+                android:fontFamily="@font/akaya_telivigala"
+                android:textColor="#D658B3"
+                android:textColorHint="#D658B3"
+                android:translationY="30dp" />
+
+            <EditText
+                android:id="@+id/password"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/editor_background"
+                android:hint="@string/password"
+                android:inputType="textPassword"
+                android:padding="10dp"
+                android:fontFamily="@font/akaya_telivigala"
+                android:textColor="#D658B3"
+                android:textColorHint="#D658B3"
+                android:translationY="30dp"
+                android:autofillHints="" />
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/register"
+                android:fontFamily="@font/akaya_telivigala"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/button_background"
+                android:text="@string/register"
+                android:textColor="#FFFFFF"
+                android:translationY="30dp" />
+
+            <TextView
+                android:id="@+id/txt_login"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:clickable="true"
+                android:fontFamily="@font/akaya_telivigala"
+                android:text="@string/already_have_an_account_sign_in"
+                android:textColor="#D658B3"
+                android:textSize="20dp"
+
+                android:translationY="30dp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

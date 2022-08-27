@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/ForHer/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1125" />
+        <entry key="..\:/AndroidStudioProjects/ForHer/app/src/main/res/drawable/ic_more.xml" value="0.1125" />
+        <entry key="..\:/AndroidStudioProjects/ForHer/app/src/main/res/font/baloo.xml" value="0.23076923076923078" />
+        <entry key="..\:/AndroidStudioProjects/ForHer/app/src/main/res/layout/activity_edit_profile.xml" value="0.19010416666666666" />
+        <entry key="..\:/AndroidStudioProjects/ForHer/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/ForHer/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/ForHer/app/src/main/res/layout/activity_post.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/ForHer/app/src/main/res/layout/activity_rays_test.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/ForHer/app/src/main/res/layout/activity_register.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/ForHer/app/src/main/res/layout/activity_splash_screen.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/ForHer/app/src/main/res/layout/add_post.xml" value="0.371868978805395" />
+        <entry key="..\:/AndroidStudioProjects/ForHer/app/src/main/res/layout/edit_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/ForHer/app/src/main/res/layout/login.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/ForHer/app/src/main/res/layout/posr_item.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/ForHer/app/src/main/res/layout/post_recycleview.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/ForHer/app/src/main/res/layout/test_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/ForHer/app/src/main/res/layout/test_recycle_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/ForHer/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1125" />
+        <entry key="..\:/For Her Graduation Project/For Her App/ForHer/app/src/main/res/drawable/camera.xml" value="0.148" />
+        <entry key="..\:/For Her Graduation Project/For Her App/ForHer/app/src/main/res/drawable/color_train.xml" value="0.1475" />
+        <entry key="..\:/For Her Graduation Project/For Her App/ForHer/app/src/main/res/drawable/edit_person.xml" value="0.148" />
+        <entry key="..\:/For Her Graduation Project/For Her App/ForHer/app/src/main/res/layout/activity_about_us.xml" value="0.1921875" />
+        <entry key="..\:/For Her Graduation Project/For Her App/ForHer/app/src/main/res/layout/activity_edit_profile.xml" value="0.1921875" />
+        <entry key="..\:/For Her Graduation Project/For Her App/ForHer/app/src/main/res/layout/activity_intro.xml" value="0.1921875" />
+        <entry key="..\:/For Her Graduation Project/For Her App/ForHer/app/src/main/res/layout/activity_login.xml" value="0.1921875" />
+        <entry key="..\:/For Her Graduation Project/For Her App/ForHer/app/src/main/res/layout/activity_main.xml" value="0.1921875" />
+        <entry key="..\:/For Her Graduation Project/For Her App/ForHer/app/src/main/res/layout/activity_post.xml" value="0.1921875" />
+        <entry key="..\:/For Her Graduation Project/For Her App/ForHer/app/src/main/res/layout/activity_rays_test.xml" value="0.1921875" />
+        <entry key="..\:/For Her Graduation Project/For Her App/ForHer/app/src/main/res/layout/activity_register.xml" value="0.1921875" />
+        <entry key="..\:/For Her Graduation Project/For Her App/ForHer/app/src/main/res/layout/activity_test.xml" value="0.1921875" />
+        <entry key="..\:/For Her Graduation Project/For Her App/ForHer/app/src/main/res/layout/icons_nav.xml" value="0.1921875" />
+        <entry key="..\:/For Her Graduation Project/For Her App/ForHer/app/src/main/res/layout/intro_sreen.xml" value="0.33" />
+        <entry key="..\:/For Her Graduation Project/For Her App/ForHer/app/src/main/res/layout/test_recycle_layout.xml" value="0.25" />
+        <entry key="..\:/Graduation Project/ForHer/app/src/main/res/drawable/back.xml" value="0.106" />
+        <entry key="..\:/Graduation Project/ForHer/app/src/main/res/drawable/color_train.xml" value="0.1" />
+        <entry key="..\:/Graduation Project/ForHer/app/src/main/res/drawable/ic_baseline_arrow_forward_24.xml" value="0.1" />
+        <entry key="..\:/Graduation Project/ForHer/app/src/main/res/drawable/indicator_default.xml" value="0.1" />
+        <entry key="..\:/Graduation Project/ForHer/app/src/main/res/drawable/indicator_selected.xml" value="0.1" />
+        <entry key="..\:/Graduation Project/ForHer/app/src/main/res/drawable/indicator_selector.xml" value="0.1" />
+        <entry key="..\:/Graduation Project/ForHer/app/src/main/res/layout/activity_about_us.xml" value="0.33" />
+        <entry key="..\:/Graduation Project/ForHer/app/src/main/res/layout/activity_edit_profile.xml" value="0.1921875" />
+        <entry key="..\:/Graduation Project/ForHer/app/src/main/res/layout/activity_intro.xml" value="0.1921875" />
+        <entry key="..\:/Graduation Project/ForHer/app/src/main/res/layout/activity_login.xml" value="0.1921875" />
+        <entry key="..\:/Graduation Project/ForHer/app/src/main/res/layout/activity_main.xml" value="0.1921875" />
+        <entry key="..\:/Graduation Project/ForHer/app/src/main/res/layout/activity_post.xml" value="0.1921875" />
+        <entry key="..\:/Graduation Project/ForHer/app/src/main/res/layout/activity_rays_test.xml" value="0.1921875" />
+        <entry key="..\:/Graduation Project/ForHer/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Graduation Project/ForHer/app/src/main/res/layout/activity_test.xml" value="0.1921875" />
+        <entry key="..\:/Graduation Project/ForHer/app/src/main/res/layout/icons_nav.xml" value="0.1921875" />
+        <entry key="..\:/Graduation Project/ForHer/app/src/main/res/layout/imageradious.xml" value="0.1921875" />
+        <entry key="..\:/Graduation Project/ForHer/app/src/main/res/layout/intro_sreen.xml" value="0.1921875" />
+        <entry key="..\:/Graduation Project/ForHer/app/src/main/res/layout/posr_item.xml" value="0.1921875" />
+        <entry key="..\:/Graduation Project/ForHer/app/src/main/res/layout/test_item.xml" value="0.1921875" />
+        <entry key="..\:/Graduation Project/ForHer/app/src/main/res/layout/test_recycle_layout.xml" value="0.1921875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
