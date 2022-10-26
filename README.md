@@ -26,9 +26,9 @@ Our project aims to increase Women awareness and early prediction to breast canc
 - [3] Patients & Doctors can See All Post 
 - [4] Doctors can Upload Posts about Breast Cancer
 - [5] Pateint Can Upload  
-- [6] User can Make MSQ Question to find post to connect with your owner
+- [6] patients can Check up 
 - [7] Pateint can see all his previous Thing Find and it's details 
-- [8] user can Categories posts in App
+- [8] Doctors can Categories Breast cancer posts in App
 
 
 ## 📱 Some Screenshots 
