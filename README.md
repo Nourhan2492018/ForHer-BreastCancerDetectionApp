@@ -59,9 +59,8 @@ Our project aims to increase Women awareness and early prediction to breast canc
 ## 🛠 How To Run 
 
  >  Run The Application
-  > install android studio
-  > instuall flutter sdk
-  > any python ide
+  > install android studio<br />
+  > any python ide <br />
 
 ## ⚡ Technologies and Libraries 
 * Firebase Auth 
